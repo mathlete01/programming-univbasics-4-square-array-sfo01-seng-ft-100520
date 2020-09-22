@@ -3,10 +3,10 @@ def square_array(array)
   counter = 0
   while counter < array.length do
     newArr[counter] = array[counter]*
-    puts newArr[counter]
+    #puts newArr[counter]
     counter += 1
   end
-  #puts newArr
+  puts newArr
   newArr
 end
 
