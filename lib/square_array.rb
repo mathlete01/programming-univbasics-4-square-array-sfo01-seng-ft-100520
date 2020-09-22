@@ -1,5 +1,5 @@
 def square_array(array)
-  puts "hello"
+  #puts "hello"
   newArr = []
   counter = 0
   while array[array.length] do
