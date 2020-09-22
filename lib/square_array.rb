@@ -1,3 +1,7 @@
 def square_array(array)
-  # your code here
+  newArr = []
+  while array.length do |index|
+    newArr[index] = array[index]**
+  end
+  newArr
 end
