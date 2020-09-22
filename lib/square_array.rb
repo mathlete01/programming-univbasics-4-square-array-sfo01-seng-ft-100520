@@ -9,5 +9,6 @@ def square_array(array)
   newArr
 end
 
-square_array([1,2,3])
+array = [1,2,3]
+square_array(array)
 puts "hello"
